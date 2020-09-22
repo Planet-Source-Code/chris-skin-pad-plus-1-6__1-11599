@@ -1,0 +1,176 @@
+[Root]
+Most Recent Package=Skin Pad Plus
+
+
+[Package|Skin Pad Plus|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\WINDOWS\Desktop\Programming\MyFinishedPrograms\SkinPad\Package
+
+[Package|Skin Pad Plus|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Skin Pad Plus|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Skin Pad Plus|Files Found]
+
+[Package|Skin Pad Plus|Files Released]
+
+[Package|Skin Pad Plus|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\msdxm.ocx=
+C:\WINDOWS\SYSTEM\ActiveSkin.ocx=
+C:\WINDOWS\SYSTEM\nslock15vb6.ocx=
+C:\WINDOWS\SYSTEM\MSCAL.OCX=
+
+[Package|Skin Pad Plus|Out-of-Date Dependency Information]
+
+[Package|Skin Pad Plus|Files Added]
+
+[Package|Skin Pad Plus|Files Removed]
+c:\program files\microsoft visual studio\vb98\wizards\pdwizard\redist\mdac_typ.exe=
+c:\windows\system\mswinsck.ocx=
+c:\windows\system\tabctl32.ocx=
+c:\windows\system\msmapi32.ocx=
+c:\windows\system\msinet.ocx=
+c:\windows\system\mshflxgd.ocx=
+c:\windows\system\msflxgrd.ocx=
+c:\windows\system\msdatgrd.ocx=
+c:\windows\system\msdatlst.ocx=
+c:\windows\system\msdatrep.ocx=
+c:\windows\system\mscomm32.ocx=
+c:\windows\system\mscomctl.ocx=
+c:\windows\system\mscomct2.ocx=
+c:\windows\system\mschrt20.ocx=
+c:\windows\system\comct332.ocx=
+c:\windows\system\comdlg32.ocx=
+c:\windows\system\dblist32.ocx=
+c:\windows\system\mci32.ocx=
+c:\windows\system\msadodc.ocx=
+c:\windows\system\msbind.dll=
+c:\windows\system\mscal.ocx=
+c:\windows\system\msdxm.ocx=
+c:\windows\system\msrdc20.ocx=
+c:\windows\system\msrdo20.dll=
+c:\windows\system\msstdfmt.dll=
+c:\windows\system\picclp32.ocx=
+c:\windows\system\rdocurs.dll=
+c:\windows\system\msmask32.ocx=
+
+[Package|Skin Pad Plus|Files In Project]
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=No
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=No
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=No
+C:\WINDOWS\SYSTEM\TABCTL32.OCX=No
+C:\WINDOWS\SYSTEM\MSFLXGRD.OCX=No
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=No
+C:\WINDOWS\SYSTEM\MSCOMCTL.OCX=No
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=No
+C:\WINDOWS\SYSTEM\MSINET.OCX=No
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=No
+C:\WINDOWS\SYSTEM\MSWINSCK.OCX=No
+C:\WINDOWS\SYSTEM\MSMAPI32.OCX=No
+C:\WINDOWS\SYSTEM\mci32.ocx=No
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=No
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCOMM32.OCX=No
+C:\WINDOWS\SYSTEM\Msmask32.ocx=No
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=No
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=No
+C:\WINDOWS\SYSTEM\MSDATLST.OCX=No
+C:\WINDOWS\SYSTEM\COMCT332.OCX=No
+C:\WINDOWS\SYSTEM\MSADODC.OCX=No
+C:\WINDOWS\SYSTEM\MSHFLXGD.OCX=No
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=No
+C:\WINDOWS\SYSTEM\MSDATREP.OCX=No
+C:\WINDOWS\SYSTEM\MSBIND.DLL=No
+C:\WINDOWS\SYSTEM\nslock15vb6.ocx=Yes
+C:\WINDOWS\SYSTEM\ActiveSkin.ocx=Yes
+C:\WINDOWS\SYSTEM\msdxm.ocx=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\WINDOWS\SYSTEM\MSCAL.OCX=No
+C:\WINDOWS\Desktop\SkinPadPlus.exe=Yes
+
+[Package|Skin Pad Plus|Configure Registry Files]
+Applicable=No
+
+[Package|Skin Pad Plus|Configure Remote Servers]
+Applicable=No
+
+[Package|Skin Pad Plus|Install Locations]
+C:\WINDOWS\Desktop\Notepad\SkinPadPlus.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RICHTX32.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\RICHED32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\mci32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\PICCLP32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\Msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\COMCT332.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ActiveSkin.ocx=$(WinSysPath)
+C:\WINDOWS\SYSTEM\msdxm.ocx=$(WinSysPath)
+C:\Program Files\Microsoft Office\Office\MSCAL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\Desktop\Programming\MyFinishedPrograms\SkinPad\source code\SkinPadPlus.exe=$(AppPath)
+C:\WINDOWS\Desktop\SkinPadPlus.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\nslock15vb6.ocx=$(WinSysPath)
+
+[Package|Skin Pad Plus|Configure Shared Files]
+Applicable=Yes
+C:\WINDOWS\Desktop\Notepad\SkinPadPlus.exe=No
+C:\WINDOWS\Desktop\Programming\MyFinishedPrograms\SkinPad\source code\SkinPadPlus.exe=No
+C:\WINDOWS\Desktop\SkinPadPlus.exe=No
+
+[Package|Skin Pad Plus|Distribution]
+Type=single
+Size=
+Title=Skin Pad Plus
+
+[Package|Skin Pad Plus|Package]
+PackageFolder=C:\WINDOWS\Desktop\Programming\MyFinishedPrograms\SkinPad\Package
+ProjectFolder=C:\WINDOWS\Desktop\Programming\MyFinishedPrograms\SkinPad\source code
+ServerSideCab=
+File1=C:\WINDOWS\Desktop\Programming\MyFinishedPrograms\SkinPad\Package\setup.exe
+File2=C:\WINDOWS\Desktop\Programming\MyFinishedPrograms\SkinPad\Package\Setup.Lst
+File3=C:\WINDOWS\Desktop\Programming\MyFinishedPrograms\SkinPad\Package\SkinPadPlus.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Skin Pad Plus|IconGroups]
+Group0=Skin Pad Plus
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|Skin Pad Plus|Skin Pad Plus]
+Icon1=SkinPadPlus.exe
+Title1=Skin Pad Plus
+StartIn1=$(AppPath)
+Key1=Icon1
